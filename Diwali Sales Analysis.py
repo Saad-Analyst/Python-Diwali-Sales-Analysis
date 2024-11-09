@@ -12,7 +12,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Set style for plots and global figure size
+# Set styles for plots and global figure size
 sns.set(style="whitegrid")
 plt.rcParams['figure.figsize'] = (10, 6)
 
